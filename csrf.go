@@ -72,7 +72,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/adg/xsrftoken"
+	"github.com/ymohii/xsrftoken"
 	"github.com/go-martini/martini"
 	"github.com/martini-contrib/sessions"
 )
